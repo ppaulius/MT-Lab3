@@ -2,6 +2,17 @@
 LT
 Šio laboratorinio darbo tikslas - sukurti pirmąją papildytos realybės (AR) taikomąją programėlę/aplikaciją.
 
+Padarytas funkcionalumas:
+    B alternatyva
+    
+    - sukurtas naujas žymeklis
+    - įsitikinta, kad programa pati sugeba jį susirasti
+    - programa geriausiai veikia su Google Chrome naršykle
+    
+Nuotraukos:
+![Window](https://www.part.lt/img/5be6d9f2eb26484541cb2f2ddffd3ebb547.png)
+![Window](https://www.part.lt/img/d7bf1bb13aca3abd4d2c9b92fca10ef2422.png)
+
 Papildytos realybės programėlei sukurti galima rasti nemažai atviro kodo pavyzdžių. Vienas jų yra AR.js. Šio sprendimo taikymo pavyzdžių galima rasti čia: https://github.com/stemkoski/AR-Examples
 
 # Reikalavimai susikurtai repozitorijai (angl. repository)
